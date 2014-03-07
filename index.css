@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+html, body{
+  height: 100%;
+}
+
 h1 {
   color: green;
   font-size: 3em;
@@ -12,4 +16,9 @@ h1 {
 section {
   width: 100%;
   border: 1px solid red;
+}
+
+.contenedor {
+  background: #f4f450;
+  height: 50%;
 }
