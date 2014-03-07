@@ -12,14 +12,14 @@ html, body{
 }
 
 h1 {
-  color: red;
-  font-size: 6em;
+  color: orange;
+  font-size: 3em;
   text-align: center;
 }
 
 section {
   width: 100%;
-  border: 1px solid red;
+  border: 1px solid cyan;
 }
 
 .contenedor {
